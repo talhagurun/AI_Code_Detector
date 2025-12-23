@@ -1,0 +1,6 @@
+.scannerwork/
+.idea/
+.venv1/
+venv/
+data/*.csv
+__pycache__/
